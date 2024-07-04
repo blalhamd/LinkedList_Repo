@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\LinkedList.csproj", "{C7B082B2-C46C-4982-95AE-562C9596E7BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HahList", "HahList\HahList.csproj", "{88B2949D-6AFE-40E4-8FF8-98E6035A90CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7B082B2-C46C-4982-95AE-562C9596E7BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7B082B2-C46C-4982-95AE-562C9596E7BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7B082B2-C46C-4982-95AE-562C9596E7BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7B082B2-C46C-4982-95AE-562C9596E7BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88B2949D-6AFE-40E4-8FF8-98E6035A90CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88B2949D-6AFE-40E4-8FF8-98E6035A90CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88B2949D-6AFE-40E4-8FF8-98E6035A90CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88B2949D-6AFE-40E4-8FF8-98E6035A90CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78C8B1C5-6E06-4B68-B300-CECA94F59063}
+	EndGlobalSection
+EndGlobal
