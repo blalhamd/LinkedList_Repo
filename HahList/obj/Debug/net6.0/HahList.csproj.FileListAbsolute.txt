@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\مشاريع سي شارب\LinkedList\HahList\obj\Debug\net6.0\HahList.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\مشاريع سي شارب\LinkedList\HahList\obj\Debug\net6.0\HahList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\مشاريع سي شارب\LinkedList\HahList\obj\Debug\net6.0\HahList.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\مشاريع سي شارب\LinkedList\HahList\obj\Debug\net6.0\HahList.AssemblyInfo.cs
+C:\Users\DELL\Desktop\مشاريع سي شارب\LinkedList\HahList\obj\Debug\net6.0\HahList.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\مشاريع سي شارب\LinkedList\HahList\bin\Debug\net6.0\HahList.exe
+C:\Users\DELL\Desktop\مشاريع سي شارب\LinkedList\HahList\bin\Debug\net6.0\HahList.deps.json
+C:\Users\DELL\Desktop\مشاريع سي شارب\LinkedList\HahList\bin\Debug\net6.0\HahList.runtimeconfig.json
+C:\Users\DELL\Desktop\مشاريع سي شارب\LinkedList\HahList\bin\Debug\net6.0\HahList.dll
+C:\Users\DELL\Desktop\مشاريع سي شارب\LinkedList\HahList\bin\Debug\net6.0\HahList.pdb
+C:\Users\DELL\Desktop\مشاريع سي شارب\LinkedList\HahList\obj\Debug\net6.0\HahList.dll
+C:\Users\DELL\Desktop\مشاريع سي شارب\LinkedList\HahList\obj\Debug\net6.0\refint\HahList.dll
+C:\Users\DELL\Desktop\مشاريع سي شارب\LinkedList\HahList\obj\Debug\net6.0\HahList.pdb
+C:\Users\DELL\Desktop\مشاريع سي شارب\LinkedList\HahList\obj\Debug\net6.0\HahList.genruntimeconfig.cache
+C:\Users\DELL\Desktop\مشاريع سي شارب\LinkedList\HahList\obj\Debug\net6.0\ref\HahList.dll
